@@ -1,0 +1,49 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    color: #234b70;
+    margin-bottom: 30px;
+}
+
+button {
+    background-color: #234b70;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #163650;
+}
+
+#products {
+    max-width: 600px;
+    margin: 30px auto;
+    text-align: left;
+}
+
+#products h3 {
+    color: #234b70;
+    margin-bottom: 10px;
+}
+
+#products p {
+    color: #444;
+    font-size: 15px;
+}
+
+#products hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 20px 0;
+}
